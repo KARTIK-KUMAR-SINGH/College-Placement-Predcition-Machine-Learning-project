@@ -1,0 +1,251 @@
+Student_ID,Branch,College_Tier,CGPA,Percentage_10th,Percentage_12th,Active_Backlogs,Gap_Years,DSA_Proficiency,Languages_Known,ML_AI_Skills,Web_Dev_Skills,Num_Projects,GitHub_Repos,Num_Certifications,Hackathons_Won,Num_Internships,Internship_Relevance,Communication_Score,Aptitude_Score,Leadership_Roles,Companies_Applied,Companies_Shortlisted,Placed,CTC_LPA
+SIT20240001,ECE,1,8.46,78.6,75.7,1,0,Intermediate,"C, C++, JavaScript",Basic,None,4,6,6,2,1,High,4.6,64.3,No,17,2,No,0.0
+SIT20240002,ISE,3,6.27,66.4,81.6,0,0,Advanced,"C++, C",Intermediate,Basic,2,3,2,1,1,Medium,10.0,68.3,Yes,5,4,Yes,8.16
+SIT20240003,ISE,3,7.42,86.3,70.8,0,0,Intermediate,"Python, Go, JavaScript, C++",Basic,None,2,3,1,0,0,None,6.1,80.9,No,16,4,Yes,4.86
+SIT20240004,ISE,3,7.43,80.0,76.0,0,0,Advanced,"C, Rust, Java",Basic,Intermediate,2,5,0,0,0,None,4.0,47.0,Yes,7,4,Yes,7.0
+SIT20240005,ISE,1,9.28,86.8,72.8,1,0,Intermediate,"Go, Python",Basic,Basic,3,6,2,2,1,Medium,7.4,62.5,No,6,6,Yes,9.46
+SIT20240006,CSE,3,6.45,91.8,83.2,0,0,Intermediate,"Rust, C",Intermediate,None,2,5,1,1,0,None,5.5,73.3,No,8,2,Yes,7.43
+SIT20240007,CSE,2,8.55,85.1,82.0,0,0,Intermediate,"JavaScript, Go, Rust",Basic,Intermediate,4,7,3,1,0,None,7.5,89.4,No,15,1,No,0.0
+SIT20240008,ISE,1,8.73,94.5,90.5,0,1,Beginner,"Java, Go, Python",None,Intermediate,3,4,6,2,3,Medium,4.5,78.0,Yes,6,1,No,0.0
+SIT20240009,AIML,1,8.62,90.8,84.1,0,0,Beginner,"Go, Rust, C++, JavaScript",Advanced,Basic,4,7,4,2,3,High,7.4,49.5,Yes,14,2,Yes,9.43
+SIT20240010,ECE,3,6.74,85.2,86.4,0,0,Intermediate,"C, Java, Python",None,Intermediate,2,2,1,0,1,Low,6.8,47.8,Yes,16,2,Yes,6.66
+SIT20240011,CSE,2,8.04,72.8,80.3,0,0,Beginner,"JavaScript, C++, Go",Advanced,None,3,5,1,0,1,High,4.2,94.8,No,14,2,No,0.0
+SIT20240012,CSE,1,8.39,75.8,80.8,0,0,Intermediate,"C, C++, JavaScript",Intermediate,Intermediate,4,4,3,2,1,Medium,2.0,50.8,No,15,2,No,0.0
+SIT20240013,CSE,3,5.71,92.7,75.7,1,2,Advanced,"C, JavaScript, C++",Intermediate,None,2,5,1,0,0,None,6.7,88.5,No,14,3,Yes,8.4
+SIT20240014,CSE,1,7.95,85.1,86.4,0,0,Advanced,"C, Java, Python, JavaScript",Basic,Intermediate,6,8,6,2,3,High,5.1,71.3,No,10,0,No,0.0
+SIT20240015,EEE,3,7.7,87.7,100.0,0,0,Beginner,Python,None,Basic,1,3,0,0,0,None,5.1,66.4,No,17,4,Yes,3.02
+SIT20240016,ECE,3,6.85,67.2,77.9,0,0,Beginner,C,Advanced,Basic,1,3,2,1,1,High,5.2,71.3,No,16,0,No,0.0
+SIT20240017,ISE,2,7.31,79.0,82.9,0,0,Advanced,"Java, C++",None,None,2,4,3,1,0,None,8.5,51.7,Yes,5,5,Yes,7.9
+SIT20240018,EEE,3,6.37,100.0,64.1,1,0,Advanced,C++,None,Basic,1,2,1,1,1,High,5.0,72.3,No,7,4,Yes,8.37
+SIT20240019,AIML,2,7.16,80.6,79.7,0,0,Intermediate,"Rust, JavaScript, C++",Basic,None,4,7,4,1,0,None,5.7,33.8,No,9,7,Yes,7.64
+SIT20240020,ME,2,6.34,86.0,89.3,1,0,Intermediate,"Java, Python, Go",Basic,Basic,4,5,4,0,2,Low,4.5,69.1,No,13,2,Yes,6.48
+SIT20240021,DS,2,8.87,88.2,76.1,0,0,Advanced,"Python, JavaScript",None,None,3,4,1,0,0,None,9.3,97.8,Yes,7,6,Yes,7.29
+SIT20240022,CSE,2,7.01,94.0,80.0,0,0,Intermediate,"Java, Rust, C, C++",None,Intermediate,4,5,3,1,0,None,6.5,52.1,Yes,16,3,No,0.0
+SIT20240023,ISE,2,7.88,89.0,63.8,0,0,Beginner,"Go, Java, JavaScript",None,None,2,4,1,1,1,High,5.7,35.3,No,19,2,Yes,8.62
+SIT20240024,ECE,3,7.42,80.2,77.9,0,0,Intermediate,Python,Intermediate,Intermediate,1,1,1,2,0,None,5.8,47.7,No,12,0,No,0.0
+SIT20240025,CSE,2,6.89,90.4,69.7,0,0,Intermediate,"C, JavaScript, Python",Basic,Basic,4,5,4,1,1,High,5.8,71.9,No,19,0,No,0.0
+SIT20240026,EEE,2,6.55,85.1,77.8,0,1,Intermediate,"Python, Go",None,Intermediate,4,7,3,1,1,Medium,7.7,51.9,No,8,5,Yes,5.4
+SIT20240027,ME,2,7.04,87.2,95.8,1,0,Advanced,"Java, JavaScript, Rust",None,None,4,7,3,1,0,None,6.1,86.5,Yes,16,2,No,0.0
+SIT20240028,CIVIL,1,7.78,79.4,100.0,0,0,Advanced,"Rust, Java, Python",None,None,6,9,2,1,2,High,7.9,73.2,No,19,7,Yes,6.63
+SIT20240029,AIML,1,7.62,81.6,80.4,0,0,Beginner,"Java, Rust, C++",Basic,None,4,4,3,1,1,Medium,6.3,40.6,Yes,10,6,Yes,11.41
+SIT20240030,ME,1,8.14,70.8,79.3,0,0,Beginner,Rust,None,None,3,6,4,0,2,High,5.3,92.5,No,14,0,No,0.0
+SIT20240031,CSE,2,7.34,84.3,78.4,0,0,Intermediate,"JavaScript, Java",Intermediate,None,3,6,4,1,0,None,5.4,86.0,Yes,6,4,Yes,9.89
+SIT20240032,ME,1,7.68,72.8,77.9,0,0,Intermediate,"C, Rust",None,Intermediate,3,3,3,2,3,High,3.3,60.1,No,11,3,No,0.0
+SIT20240033,ECE,1,8.27,98.0,82.9,1,0,Beginner,C,Basic,Advanced,6,6,2,1,3,High,6.1,78.2,No,9,2,Yes,6.38
+SIT20240034,CSE,3,6.91,92.0,76.6,0,0,Intermediate,"C, Java",Basic,Basic,2,4,2,0,1,High,6.9,49.1,No,16,1,No,0.0
+SIT20240035,AIML,3,5.79,77.5,89.4,0,0,Intermediate,"Rust, Python, C++",Intermediate,None,2,5,2,1,1,Medium,7.4,45.8,No,17,8,Yes,7.03
+SIT20240036,ECE,2,7.03,90.9,78.1,0,1,Advanced,"Rust, Java",Intermediate,Intermediate,2,4,3,0,2,High,5.9,85.6,No,13,7,Yes,6.76
+SIT20240037,AIML,3,7.85,82.8,85.3,0,0,Beginner,"Java, C++",None,None,1,4,1,1,0,None,8.3,61.1,Yes,10,3,No,0.0
+SIT20240038,AIML,1,8.38,79.3,96.8,0,0,Intermediate,"C, Go",None,None,6,8,6,0,3,High,7.2,79.5,No,8,7,Yes,10.12
+SIT20240039,CSE,1,8.11,77.7,93.7,1,0,Intermediate,"Java, JavaScript",None,Intermediate,5,6,4,2,3,Low,6.8,73.3,Yes,11,3,No,0.0
+SIT20240040,CSE,2,7.13,80.6,74.3,0,1,Advanced,"Go, Rust, JavaScript",Advanced,Advanced,2,2,3,2,1,Low,8.3,86.3,No,16,2,Yes,7.64
+SIT20240041,ME,1,8.31,88.9,78.1,0,0,Advanced,"Rust, Java, Go",Basic,Basic,5,7,6,3,2,Medium,5.6,58.0,No,8,3,No,0.0
+SIT20240042,ISE,3,6.62,88.0,77.1,0,0,Advanced,"Go, Java",None,None,2,5,0,1,1,Medium,5.7,62.2,No,17,4,Yes,8.17
+SIT20240043,CIVIL,1,7.9,94.6,81.3,0,0,Advanced,"JavaScript, C++",None,Intermediate,6,8,4,1,3,Medium,3.6,67.2,No,20,3,No,0.0
+SIT20240044,AIML,2,8.15,70.2,70.8,2,0,Intermediate,"C++, Go, Rust",None,Advanced,2,2,2,3,2,Medium,7.3,54.8,No,7,5,Yes,9.72
+SIT20240045,AIML,3,7.51,81.2,64.6,2,0,Advanced,"C, Rust",Basic,None,2,4,0,2,1,Low,8.5,65.1,No,12,4,Yes,9.57
+SIT20240046,ECE,1,8.73,93.3,63.4,0,0,Beginner,C++,Basic,None,5,6,4,2,2,Low,5.1,68.1,No,7,2,No,0.0
+SIT20240047,EEE,3,7.49,81.2,74.0,0,0,Intermediate,C,None,Intermediate,1,4,1,1,1,Low,8.5,60.5,No,18,7,Yes,5.99
+SIT20240048,CSE,3,7.97,83.1,88.6,0,0,Intermediate,"Java, Python",Intermediate,None,2,4,1,2,0,None,8.2,79.3,Yes,15,0,No,0.0
+SIT20240049,CSE,2,8.2,78.5,83.3,3,0,Beginner,"C, C++, Rust, Java",Basic,None,4,6,2,0,2,Low,7.0,83.2,No,12,1,No,0.0
+SIT20240050,ISE,3,6.31,88.4,75.7,0,1,Intermediate,"Go, Rust",None,None,1,2,2,1,1,Medium,6.5,61.1,Yes,19,7,Yes,9.9
+SIT20240051,EEE,1,8.51,89.1,86.4,0,0,Intermediate,"Rust, C++, Java",Basic,Basic,5,8,3,0,2,High,5.3,68.2,No,17,2,No,0.0
+SIT20240052,ECE,1,7.81,79.1,79.4,0,0,Beginner,"Java, Rust",Basic,None,3,3,2,1,1,Medium,7.8,82.6,Yes,14,3,No,0.0
+SIT20240053,CSE,2,7.93,85.4,91.0,0,0,Intermediate,"Go, Python",Advanced,Advanced,4,5,2,0,1,High,5.5,39.8,No,8,6,Yes,5.86
+SIT20240054,ISE,3,5.82,80.4,87.2,0,0,Intermediate,"Python, C++, Rust, JavaScript",Basic,None,1,2,0,1,1,High,6.8,69.9,No,20,4,Yes,7.06
+SIT20240055,CSE,2,7.53,94.6,75.6,0,2,Intermediate,"Rust, Go, JavaScript, C",Basic,None,2,3,1,2,2,Medium,5.6,62.2,No,8,1,No,0.0
+SIT20240056,CSE,2,6.96,82.3,94.0,0,0,Beginner,"C++, Rust",None,Basic,3,4,3,1,0,None,6.7,97.2,No,11,7,Yes,9.45
+SIT20240057,AIML,3,6.12,90.0,85.7,0,0,Advanced,"C, Java, C++, Python",None,Intermediate,2,3,2,1,1,Medium,5.3,64.5,No,10,0,No,0.0
+SIT20240058,AIML,1,7.41,83.2,89.6,0,0,Intermediate,"Rust, Python, Go, C",Intermediate,Intermediate,4,7,3,0,2,Low,6.7,42.1,No,17,4,Yes,9.41
+SIT20240059,CSE,1,8.57,78.3,98.8,0,1,Intermediate,"Rust, Python, Java",None,Basic,3,5,3,0,3,Medium,6.2,59.6,No,15,1,No,0.0
+SIT20240060,CSE,2,7.09,98.6,77.3,0,0,Beginner,"JavaScript, C++, Java",Advanced,Intermediate,4,6,3,1,0,None,7.2,72.1,No,16,0,No,0.0
+SIT20240061,DS,2,7.29,97.5,72.6,0,0,Advanced,"C, Python, C++, Rust",Advanced,Basic,4,5,4,2,1,Medium,8.8,74.4,No,20,1,No,0.0
+SIT20240062,AIML,2,7.62,67.6,75.6,0,0,Advanced,"C, JavaScript",None,Intermediate,4,6,1,2,2,Medium,8.5,60.8,No,14,7,Yes,7.0
+SIT20240063,AIML,2,6.44,95.1,71.8,0,0,Intermediate,"Go, Java",Basic,Basic,4,4,2,0,0,None,5.5,82.9,No,19,3,No,0.0
+SIT20240064,EEE,2,7.1,93.3,74.5,0,0,Beginner,"Rust, C",Intermediate,None,4,6,4,1,0,None,9.2,86.2,No,17,8,Yes,7.82
+SIT20240065,ME,1,7.83,82.6,76.5,0,2,Advanced,"Java, C",Basic,None,4,5,6,1,3,Medium,6.8,26.7,Yes,10,3,Yes,6.9
+SIT20240066,DS,3,5.99,72.2,82.2,2,0,Intermediate,"Java, C++, C",Intermediate,None,2,4,2,1,0,None,6.7,35.4,No,18,0,No,0.0
+SIT20240067,ECE,2,7.97,88.4,71.3,0,2,Beginner,Python,Basic,Basic,4,6,2,2,1,High,6.4,61.7,Yes,8,8,Yes,6.54
+SIT20240068,ME,3,6.53,81.5,82.5,0,0,Beginner,"Python, JavaScript",None,Advanced,1,4,1,0,1,Low,5.4,74.1,No,12,7,Yes,7.47
+SIT20240069,ISE,3,6.76,70.2,87.0,0,0,Beginner,"C, Python, Java, Go",None,Advanced,2,5,1,0,1,Medium,4.1,77.8,No,17,1,No,0.0
+SIT20240070,ECE,3,6.64,93.4,75.3,0,0,Beginner,"Rust, JavaScript",Advanced,None,2,3,0,0,1,Medium,3.6,59.7,No,16,0,No,0.0
+SIT20240071,CSE,3,6.74,86.8,82.2,1,2,Beginner,"Rust, Go, JavaScript, Java",Advanced,Basic,2,3,1,0,1,Medium,7.9,72.9,Yes,19,7,Yes,5.44
+SIT20240072,CSE,2,8.22,80.1,78.8,0,0,Intermediate,"C++, C, Python, Java",None,Advanced,4,5,1,3,2,Medium,6.5,51.7,Yes,14,7,Yes,7.84
+SIT20240073,CSE,3,7.88,83.5,86.5,0,0,Intermediate,"JavaScript, C, Go",Intermediate,Basic,2,4,0,2,0,None,4.6,74.3,Yes,14,2,No,0.0
+SIT20240074,CSE,3,7.35,78.6,93.4,0,0,Beginner,"C++, JavaScript",None,Advanced,2,3,0,2,0,None,6.1,66.5,No,9,2,Yes,6.8
+SIT20240075,ME,3,6.43,88.8,77.7,0,0,Advanced,"JavaScript, Python",None,None,2,4,2,1,1,High,6.5,68.9,No,16,2,Yes,3.4
+SIT20240076,CSE,3,7.21,87.4,83.4,0,0,Beginner,"Python, JavaScript, C, Java",Basic,Basic,1,4,1,0,0,None,6.5,51.4,No,7,0,No,0.0
+SIT20240077,CSE,1,8.75,87.8,89.0,0,0,Beginner,"JavaScript, C, Rust, Python",None,Basic,3,6,4,2,2,High,2.2,74.2,No,5,2,Yes,6.92
+SIT20240078,CSE,1,7.36,78.8,70.0,0,0,Intermediate,"Python, Go, C, C++",Intermediate,None,4,7,2,2,1,Low,9.1,75.8,Yes,8,5,Yes,6.81
+SIT20240079,CSE,3,7.39,83.3,79.6,0,0,Advanced,"Python, Java, JavaScript, C",None,Advanced,2,3,0,2,0,None,7.5,82.5,No,8,7,Yes,10.93
+SIT20240080,ECE,1,7.79,83.8,72.9,1,1,Beginner,Rust,Advanced,None,3,6,6,1,1,Low,6.0,65.0,No,16,2,No,0.0
+SIT20240081,ECE,2,8.18,81.2,87.9,0,0,Intermediate,"Go, Java",Advanced,None,3,6,2,1,2,High,6.9,56.3,No,9,2,No,0.0
+SIT20240082,CSE,2,7.23,100.0,95.9,0,0,Intermediate,"C++, JavaScript, Python, Java",Intermediate,Basic,3,3,1,1,1,Low,4.9,55.6,Yes,18,7,Yes,9.4
+SIT20240083,ECE,1,8.62,92.6,80.8,0,0,Intermediate,"JavaScript, C",Basic,None,5,5,4,1,2,Low,8.7,87.7,No,19,3,Yes,7.45
+SIT20240084,ISE,2,7.49,79.5,75.6,0,0,Beginner,"JavaScript, C, Rust",None,None,3,6,1,0,1,Low,8.7,76.9,No,19,1,No,0.0
+SIT20240085,ISE,3,7.35,72.4,71.1,0,0,Beginner,"JavaScript, C++, Java",Basic,None,2,5,0,0,0,None,7.9,92.7,Yes,10,4,Yes,7.83
+SIT20240086,ISE,2,7.84,94.1,88.6,1,0,Intermediate,"C++, Python, Go",None,Basic,4,4,1,2,1,Low,7.5,99.7,Yes,7,6,Yes,4.7
+SIT20240087,ECE,2,7.49,89.4,82.0,0,0,Advanced,"Python, JavaScript, C",Intermediate,Intermediate,2,3,1,1,0,None,8.5,60.7,Yes,9,5,Yes,7.1
+SIT20240088,DS,2,7.5,79.7,86.3,0,0,Intermediate,"C++, Python, Go, JavaScript",Basic,None,2,5,1,1,2,High,7.1,57.8,Yes,16,3,No,0.0
+SIT20240089,EEE,1,8.6,79.3,93.0,0,0,Beginner,"Java, Rust, Python",Basic,Advanced,5,7,3,2,3,Medium,7.7,50.0,No,10,2,No,0.0
+SIT20240090,AIML,1,8.32,77.2,83.7,0,0,Beginner,"C++, C",None,None,4,5,2,1,2,High,3.9,68.8,No,15,6,Yes,10.97
+SIT20240091,CSE,1,7.97,81.7,72.5,1,0,Intermediate,"Java, JavaScript",Basic,Advanced,6,7,3,0,1,Low,5.7,70.9,No,18,2,Yes,8.37
+SIT20240092,DS,2,7.89,97.2,77.9,0,0,Intermediate,"Python, Go, Java, C++",Intermediate,None,2,3,1,2,2,High,6.1,58.0,Yes,7,6,Yes,9.31
+SIT20240093,ECE,2,7.2,84.3,83.1,0,0,Intermediate,Go,None,Advanced,4,7,1,0,0,None,5.8,54.0,Yes,12,2,No,0.0
+SIT20240094,CSE,1,7.27,82.6,82.2,0,0,Intermediate,"Rust, JavaScript, C++, Java",Intermediate,Basic,3,4,6,1,3,High,5.2,69.9,Yes,9,1,No,0.0
+SIT20240095,CIVIL,1,8.04,77.2,76.0,0,0,Intermediate,"Rust, Python",Basic,Basic,5,7,5,2,2,Medium,7.1,53.4,Yes,14,6,Yes,3.13
+SIT20240096,ECE,3,7.1,77.2,80.9,0,0,Intermediate,Rust,None,None,2,5,2,2,0,None,7.6,69.2,Yes,13,3,Yes,2.5
+SIT20240097,ISE,3,7.05,88.3,72.3,0,0,Beginner,"Go, JavaScript, C, Python",None,Advanced,1,2,2,1,1,High,6.8,69.7,No,17,2,No,0.0
+SIT20240098,ECE,2,6.75,79.5,73.5,1,0,Intermediate,"Java, JavaScript, Go",None,Basic,3,6,4,0,1,Medium,7.8,47.2,No,9,5,Yes,6.96
+SIT20240099,ME,2,7.52,79.0,84.1,0,0,Beginner,"Python, C++",None,Basic,3,5,3,2,1,Low,5.5,44.8,Yes,5,5,Yes,4.04
+SIT20240100,CSE,1,8.05,71.7,83.6,0,0,Intermediate,"Go, JavaScript, C",Basic,Advanced,5,5,6,0,1,Low,7.5,68.4,No,11,4,Yes,10.07
+SIT20240101,CSE,2,6.9,84.8,62.4,1,0,Intermediate,"C, Java, Python",None,Basic,3,5,2,0,1,High,9.6,30.5,No,16,6,Yes,7.83
+SIT20240102,CSE,1,8.44,79.8,75.2,0,0,Intermediate,"C, Python",Basic,Basic,4,5,5,2,1,Medium,7.4,73.5,No,17,2,Yes,5.86
+SIT20240103,ISE,3,6.82,86.1,83.4,0,0,Beginner,"JavaScript, Go",None,Advanced,1,2,2,1,0,None,5.3,73.8,Yes,8,4,Yes,6.79
+SIT20240104,ECE,2,6.72,90.4,83.3,0,0,Advanced,C++,Basic,Basic,3,3,1,0,1,Low,5.1,57.0,Yes,14,6,Yes,5.31
+SIT20240105,ECE,2,7.68,87.1,87.5,0,0,Intermediate,"Java, JavaScript, Rust",Intermediate,Basic,3,4,3,1,1,Low,5.3,69.9,No,15,8,Yes,6.55
+SIT20240106,CSE,3,7.49,91.0,87.1,0,0,Intermediate,"JavaScript, Rust",Basic,None,2,3,2,1,1,High,5.1,50.1,Yes,19,3,Yes,7.65
+SIT20240107,ME,2,7.91,89.6,77.7,1,0,Advanced,"Python, C++",None,None,4,6,4,2,1,Medium,7.1,51.9,Yes,6,3,Yes,4.02
+SIT20240108,CIVIL,3,6.61,72.2,67.7,0,0,Intermediate,"C++, Rust",None,Basic,2,5,1,0,0,None,7.3,88.3,No,19,6,Yes,5.17
+SIT20240109,ISE,3,7.63,89.5,80.1,0,0,Intermediate,"C++, Rust",None,None,2,3,2,0,1,Low,4.5,65.8,No,8,8,Yes,8.29
+SIT20240110,ISE,2,7.01,77.8,78.3,0,0,Intermediate,"C, JavaScript, Python, Rust",None,Advanced,2,3,1,1,2,Medium,6.4,80.8,No,9,5,Yes,8.48
+SIT20240111,CSE,3,7.89,87.9,83.5,1,0,Advanced,"Python, Go, C",None,Advanced,2,2,2,2,0,None,7.5,84.8,No,9,3,Yes,8.8
+SIT20240112,EEE,3,5.9,85.3,71.4,0,0,Advanced,"C++, C, JavaScript",Basic,Basic,2,2,1,1,1,High,7.7,63.9,No,11,2,No,0.0
+SIT20240113,EEE,3,6.78,85.2,82.1,2,0,Intermediate,"C++, Java, C",None,None,1,3,0,1,0,None,7.0,50.1,No,7,2,No,0.0
+SIT20240114,ME,3,7.92,76.4,76.9,0,0,Intermediate,"Python, Rust",None,Basic,2,4,0,1,1,Low,6.9,43.8,Yes,11,2,Yes,3.74
+SIT20240115,ME,1,7.78,87.7,72.5,0,0,Intermediate,C,Basic,None,3,5,6,1,3,Low,3.2,72.7,No,17,7,Yes,5.25
+SIT20240116,ME,2,6.58,79.5,79.6,1,0,Beginner,"C, Java, Rust",None,Basic,3,4,1,0,1,Medium,6.9,63.8,No,8,7,Yes,7.18
+SIT20240117,CIVIL,2,6.9,81.0,87.6,0,0,Beginner,"JavaScript, Java, Python",None,None,3,5,4,0,1,High,7.3,83.3,No,14,4,Yes,7.28
+SIT20240118,ME,3,6.28,79.8,86.9,0,0,Advanced,"C++, JavaScript, Python",Intermediate,None,1,3,1,1,1,Medium,6.6,55.4,Yes,18,0,No,0.0
+SIT20240119,CSE,2,8.4,79.5,91.8,1,1,Intermediate,"Rust, Java",Intermediate,None,2,3,4,1,2,High,4.7,66.1,No,6,0,No,0.0
+SIT20240120,ME,2,8.46,80.9,71.1,3,0,Beginner,"C++, C",Intermediate,Intermediate,4,6,4,1,1,Medium,6.3,39.6,Yes,11,6,Yes,7.79
+SIT20240121,CIVIL,1,8.28,70.9,82.9,0,0,Advanced,"Python, Rust",Basic,None,4,4,2,2,1,High,6.3,47.5,Yes,9,8,Yes,2.5
+SIT20240122,ECE,3,7.29,94.8,81.2,3,0,Intermediate,"Java, Go, JavaScript",None,None,1,2,0,1,0,None,6.4,90.6,No,19,2,No,0.0
+SIT20240123,CSE,3,6.89,79.6,83.8,0,0,Intermediate,"C++, Java, Go",None,Advanced,2,2,1,1,0,None,9.6,36.4,Yes,11,0,No,0.0
+SIT20240124,ISE,1,8.82,70.5,62.8,1,0,Beginner,"Rust, C++",Intermediate,Intermediate,6,6,6,0,3,High,7.0,76.1,No,6,6,Yes,9.71
+SIT20240125,CSE,2,8.35,90.5,81.4,0,0,Advanced,"C++, C, Python",Basic,Basic,3,6,2,1,0,None,9.1,53.2,No,6,2,No,0.0
+SIT20240126,ECE,3,6.54,72.1,95.7,0,0,Intermediate,"Python, Rust",None,None,1,2,1,1,1,High,8.6,53.2,Yes,19,1,No,0.0
+SIT20240127,AIML,1,7.1,89.1,70.1,0,0,Advanced,"Go, Rust, C++",Basic,Advanced,3,6,4,1,3,High,3.3,66.2,No,17,7,Yes,9.35
+SIT20240128,ISE,3,6.64,87.9,88.7,0,0,Intermediate,"Java, Python, C",Basic,Basic,1,4,2,1,0,None,8.9,47.2,No,17,0,No,0.0
+SIT20240129,CSE,2,7.26,73.3,82.7,0,0,Intermediate,"Rust, Python, JavaScript, C++",None,None,4,5,2,1,1,Medium,6.9,62.6,No,13,7,Yes,9.11
+SIT20240130,AIML,2,7.96,62.2,90.3,0,0,Advanced,"C++, Java",None,Basic,4,6,4,0,2,Medium,3.9,58.0,No,12,4,Yes,10.02
+SIT20240131,EEE,3,6.94,93.7,80.9,0,0,Beginner,"JavaScript, Rust, Python",Basic,None,2,3,1,1,0,None,6.3,47.4,No,6,3,No,0.0
+SIT20240132,ME,1,8.84,83.7,84.9,1,1,Intermediate,Rust,None,Basic,3,5,6,0,1,High,5.1,58.3,No,20,6,Yes,5.6
+SIT20240133,DS,2,7.3,83.4,78.6,1,0,Advanced,"JavaScript, Go, C++, Java",Advanced,None,3,5,4,1,1,High,7.4,20.9,No,6,2,No,0.0
+SIT20240134,CSE,3,6.91,82.3,97.8,0,0,Advanced,"C, Java",Intermediate,Intermediate,2,3,1,0,0,None,6.4,74.3,No,17,6,Yes,6.14
+SIT20240135,ECE,2,8.11,87.2,85.0,0,0,Intermediate,Rust,Intermediate,None,4,6,1,0,0,None,7.0,65.7,Yes,6,2,No,0.0
+SIT20240136,CSE,2,6.25,99.2,77.2,0,0,Intermediate,"Python, C++",Intermediate,None,2,5,4,1,0,None,7.7,68.7,Yes,17,2,Yes,7.74
+SIT20240137,CSE,2,6.68,78.8,87.9,0,0,Intermediate,"Go, Java, Rust, Python",Basic,Basic,3,6,2,1,0,None,6.1,74.4,Yes,13,6,Yes,7.21
+SIT20240138,ME,3,7.18,75.9,94.7,0,0,Advanced,"C, Java, C++",None,Advanced,2,5,0,1,1,Medium,4.8,69.8,No,18,4,Yes,6.13
+SIT20240139,ECE,1,8.47,87.7,82.8,1,0,Intermediate,"Java, Go, JavaScript",None,None,4,5,6,3,2,Low,3.9,61.5,Yes,15,0,No,0.0
+SIT20240140,CSE,1,8.24,84.3,81.7,0,0,Intermediate,"Rust, JavaScript",Intermediate,None,5,6,4,0,3,Low,8.3,80.2,No,10,1,No,0.0
+SIT20240141,CSE,1,7.34,83.5,80.5,0,0,Intermediate,"Rust, Java",Intermediate,None,4,6,6,1,2,High,3.1,77.8,No,6,2,Yes,7.57
+SIT20240142,DS,2,7.82,77.6,81.5,0,0,Intermediate,"Python, Java, C",Basic,Intermediate,4,7,4,2,2,High,4.4,48.6,No,9,5,Yes,8.03
+SIT20240143,ISE,2,7.7,86.5,74.0,3,0,Intermediate,"Rust, C",Intermediate,Advanced,2,4,2,0,0,None,6.5,73.6,No,6,2,No,0.0
+SIT20240144,ME,2,8.23,99.0,70.9,0,0,Intermediate,"C, Java",None,Basic,2,2,3,3,0,None,7.7,66.8,No,14,7,Yes,6.33
+SIT20240145,ISE,3,6.85,94.8,73.3,0,0,Advanced,"C++, JavaScript",Basic,Intermediate,2,2,1,0,1,Low,6.8,48.9,No,5,3,Yes,6.17
+SIT20240146,ME,2,7.17,75.5,84.7,0,0,Beginner,"Rust, JavaScript, C++",None,None,2,5,1,0,2,Medium,4.5,66.2,No,9,2,No,0.0
+SIT20240147,AIML,3,7.92,93.9,79.2,0,0,Beginner,"C, JavaScript",Basic,None,2,4,2,2,1,Low,4.7,77.8,No,20,1,No,0.0
+SIT20240148,CSE,3,7.54,91.7,85.0,1,0,Intermediate,"C++, Rust",None,Intermediate,1,4,0,1,1,Low,3.7,64.6,Yes,12,3,No,0.0
+SIT20240149,ME,1,8.58,71.7,79.4,0,0,Intermediate,"Python, C, Go",None,None,6,7,3,3,2,High,4.7,80.1,Yes,14,8,Yes,4.63
+SIT20240150,DS,2,7.35,94.0,77.0,0,0,Advanced,"C++, JavaScript, C, Python",None,None,3,5,3,1,0,None,5.2,62.9,No,17,2,No,0.0
+SIT20240151,ME,2,7.81,78.5,81.7,0,1,Intermediate,Rust,None,None,3,5,1,2,2,High,6.6,58.4,No,8,2,No,0.0
+SIT20240152,CSE,1,7.77,74.9,78.0,0,0,Beginner,"Rust, JavaScript, Python, C++",None,Basic,3,6,4,1,3,Low,6.0,80.3,No,16,1,No,0.0
+SIT20240153,CSE,1,8.03,66.6,66.4,0,0,Beginner,"C, Java, Python, JavaScript",None,Intermediate,5,6,4,0,3,High,8.6,100.0,Yes,19,6,Yes,10.18
+SIT20240154,ECE,1,8.08,100.0,82.6,0,0,Beginner,Java,Basic,None,5,5,2,2,3,Medium,7.8,42.1,No,17,3,No,0.0
+SIT20240155,EEE,1,8.5,76.6,76.8,0,0,Advanced,Go,Basic,None,6,8,5,3,3,Medium,6.2,55.1,No,19,3,Yes,4.59
+SIT20240156,CSE,1,8.16,88.8,87.9,0,0,Beginner,"Rust, Python, C++",None,None,4,7,4,0,1,Medium,5.5,58.2,Yes,13,3,No,0.0
+SIT20240157,ISE,2,7.28,86.6,70.7,0,0,Intermediate,"Java, Python, C++, Rust",None,Intermediate,4,7,2,2,1,Low,5.7,48.1,No,19,5,Yes,8.35
+SIT20240158,ME,2,7.14,90.0,92.0,0,0,Advanced,Rust,Basic,Basic,4,5,2,0,0,None,8.0,70.0,No,18,2,No,0.0
+SIT20240159,ECE,2,6.59,93.9,74.3,0,0,Beginner,Java,Basic,Basic,4,4,4,1,2,Medium,8.8,62.7,No,16,1,No,0.0
+SIT20240160,ISE,2,7.84,78.0,97.9,1,0,Beginner,"Go, C++, Python",Basic,Intermediate,3,6,2,2,1,Medium,5.7,71.2,No,6,0,No,0.0
+SIT20240161,ME,2,7.44,83.5,76.0,0,0,Beginner,"JavaScript, C, Go",Advanced,None,4,6,1,0,1,Medium,3.2,71.8,Yes,6,2,Yes,3.64
+SIT20240162,ME,2,8.4,86.7,82.4,0,1,Intermediate,"Java, Go",Basic,Intermediate,4,6,1,1,0,None,5.9,58.3,Yes,12,7,Yes,5.79
+SIT20240163,ISE,2,8.07,95.1,83.4,0,0,Beginner,"JavaScript, Go",None,Intermediate,2,3,1,0,2,Low,9.0,61.4,Yes,6,3,Yes,10.31
+SIT20240164,ISE,3,5.84,86.5,82.3,0,0,Intermediate,"JavaScript, C",Intermediate,Advanced,1,1,0,0,0,None,7.7,74.3,Yes,18,6,Yes,9.33
+SIT20240165,ME,2,6.52,88.7,82.2,0,0,Advanced,"JavaScript, Java, Rust",Basic,Intermediate,2,2,3,1,0,None,7.0,81.0,No,19,6,Yes,7.25
+SIT20240166,CIVIL,3,7.68,71.2,74.6,0,0,Beginner,"C++, JavaScript, Java",Basic,Basic,2,4,2,1,0,None,6.8,74.8,Yes,8,0,No,0.0
+SIT20240167,EEE,2,7.67,87.1,78.8,0,0,Intermediate,"C++, Java",Basic,Basic,2,2,1,2,2,Medium,7.7,48.6,No,11,8,Yes,5.38
+SIT20240168,CSE,1,8.4,75.0,88.3,1,0,Beginner,"Go, C, Rust, Java",Basic,Basic,4,6,6,1,3,Low,6.2,45.8,No,12,4,Yes,11.13
+SIT20240169,ECE,3,6.23,100.0,84.4,0,0,Beginner,"Java, C",None,Basic,2,3,1,0,1,Low,6.8,100.0,Yes,18,5,Yes,6.36
+SIT20240170,ME,2,7.51,82.1,85.8,0,0,Intermediate,"C++, Go",Intermediate,None,4,6,4,2,1,Medium,4.7,59.6,No,16,3,Yes,6.33
+SIT20240171,ISE,2,9.11,96.8,69.5,0,0,Beginner,"Python, Go, JavaScript, C++",None,None,4,5,2,1,2,Low,5.7,77.5,No,19,0,No,0.0
+SIT20240172,ECE,1,9.06,87.8,65.9,0,0,Intermediate,"Go, C++",Advanced,Intermediate,5,5,4,0,2,Medium,7.0,69.7,Yes,19,2,No,0.0
+SIT20240173,EEE,3,5.97,100.0,73.2,0,0,Intermediate,"Go, JavaScript",None,Basic,2,3,0,1,1,High,5.8,38.4,Yes,11,1,No,0.0
+SIT20240174,CSE,2,6.24,87.0,77.7,0,0,Intermediate,"JavaScript, Rust, C++, C",None,None,2,3,2,1,0,None,8.4,60.2,No,7,2,Yes,11.62
+SIT20240175,AIML,1,9.19,78.0,67.3,0,0,Intermediate,"C++, Python, Java",None,Intermediate,3,5,3,1,1,Low,4.2,48.0,Yes,14,3,No,0.0
+SIT20240176,CSE,3,7.13,83.3,74.6,0,0,Intermediate,"Java, Rust, C++, Python",Advanced,None,2,4,2,1,0,None,4.6,61.7,No,11,3,Yes,8.08
+SIT20240177,CSE,2,8.12,89.0,91.8,2,0,Intermediate,"Java, JavaScript",None,Intermediate,4,6,4,2,1,Medium,5.6,82.8,No,18,2,Yes,9.31
+SIT20240178,CSE,2,7.89,86.0,62.9,0,0,Intermediate,"Rust, JavaScript",Advanced,Basic,4,7,2,1,1,High,8.4,57.7,Yes,11,2,Yes,8.81
+SIT20240179,EEE,1,7.91,81.5,83.6,0,0,Intermediate,"Rust, JavaScript",Intermediate,None,6,8,2,0,2,High,5.9,34.4,No,10,6,Yes,4.49
+SIT20240180,CSE,3,6.6,74.7,85.2,0,0,Intermediate,"Go, Rust",None,None,1,1,1,0,0,None,8.7,57.9,No,7,1,No,0.0
+SIT20240181,ECE,3,5.89,62.3,75.9,0,0,Advanced,Go,Basic,None,2,4,0,0,0,None,7.3,71.2,Yes,8,3,No,0.0
+SIT20240182,ME,1,8.13,90.9,75.9,0,0,Intermediate,JavaScript,None,Basic,3,5,6,1,1,High,7.7,74.5,Yes,16,8,Yes,8.14
+SIT20240183,EEE,1,6.48,83.7,88.1,0,0,Beginner,"C++, Python, JavaScript",Basic,Basic,4,5,3,1,1,High,7.7,50.4,Yes,5,4,Yes,4.66
+SIT20240184,CSE,1,7.98,86.1,60.8,0,1,Intermediate,"Go, C++",Basic,None,6,8,5,1,2,Low,3.4,90.9,No,17,0,No,0.0
+SIT20240185,DS,3,7.14,98.0,76.6,0,0,Beginner,"Java, Rust",Basic,None,2,5,0,1,1,Medium,6.2,65.5,Yes,16,4,Yes,7.35
+SIT20240186,CSE,3,7.42,85.9,84.2,0,0,Intermediate,"Go, JavaScript, C, Rust",Advanced,Intermediate,2,3,2,0,1,Medium,9.7,61.1,Yes,12,8,Yes,11.09
+SIT20240187,CSE,3,7.0,76.9,69.9,0,0,Intermediate,"JavaScript, Java",Basic,Basic,1,1,1,1,1,High,5.5,80.1,No,14,0,No,0.0
+SIT20240188,ECE,3,7.57,80.3,84.9,1,0,Intermediate,"Rust, Java",Intermediate,None,1,2,0,0,1,High,6.2,84.6,Yes,9,5,Yes,6.53
+SIT20240189,ECE,3,6.79,71.6,70.3,0,0,Intermediate,"JavaScript, C++, Java",None,None,1,2,0,1,1,High,5.0,56.4,No,13,2,Yes,5.87
+SIT20240190,ECE,1,6.66,83.5,100.0,0,0,Advanced,"Go, C++, C",Basic,Basic,6,6,2,0,2,Medium,7.7,75.7,No,11,1,No,0.0
+SIT20240191,CSE,3,7.23,83.1,81.7,0,0,Beginner,"Rust, JavaScript, Go, C",Intermediate,Basic,1,3,0,1,0,None,4.6,43.0,Yes,6,1,No,0.0
+SIT20240192,CSE,2,7.86,77.1,84.8,0,0,Beginner,"Python, JavaScript, Rust",None,None,2,4,3,0,1,High,6.7,91.2,Yes,19,2,No,0.0
+SIT20240193,CSE,2,7.38,92.1,75.9,0,0,Intermediate,"Go, Rust",None,Basic,3,5,1,1,1,Medium,6.0,55.3,No,17,3,No,0.0
+SIT20240194,ECE,3,6.78,73.6,81.2,0,0,Intermediate,Java,Basic,None,1,3,0,1,0,None,5.5,62.4,No,9,4,Yes,5.47
+SIT20240195,CSE,3,6.71,91.5,83.5,0,0,Intermediate,"C, Python, C++",None,Intermediate,2,5,2,0,1,Low,2.9,42.1,No,20,2,Yes,7.3
+SIT20240196,ISE,2,7.78,76.2,77.2,0,0,Advanced,"JavaScript, Go, Python",None,Basic,3,5,4,2,2,Medium,5.3,62.8,No,20,1,No,0.0
+SIT20240197,ECE,3,5.96,89.0,70.6,0,0,Intermediate,Rust,Basic,Basic,1,3,0,0,0,None,8.4,80.5,No,5,3,Yes,4.27
+SIT20240198,ECE,2,9.11,81.1,62.4,0,0,Advanced,"Go, Python",Intermediate,None,2,5,4,0,1,Medium,7.6,50.8,No,14,7,Yes,4.86
+SIT20240199,ISE,1,9.53,82.6,81.1,0,0,Intermediate,"C, Go",Basic,Intermediate,5,8,6,1,2,Low,5.5,64.9,Yes,8,8,Yes,9.47
+SIT20240200,ECE,2,5.77,87.3,82.5,0,0,Intermediate,"Rust, Python, C",None,None,2,4,1,0,1,High,5.3,54.7,No,6,4,Yes,6.41
+SIT20240201,ME,2,7.33,80.6,81.8,0,0,Beginner,"C++, Java",Basic,None,3,6,1,2,0,None,4.7,60.6,No,9,0,No,0.0
+SIT20240202,ISE,2,7.35,75.0,94.7,0,0,Intermediate,"Python, Java",Basic,Basic,2,3,3,2,1,High,4.4,50.3,Yes,11,6,Yes,8.19
+SIT20240203,AIML,3,7.14,89.8,75.4,0,0,Intermediate,"Go, Java",Basic,Advanced,2,4,2,2,1,Medium,6.1,61.6,No,6,6,Yes,9.8
+SIT20240204,ISE,2,8.75,93.7,89.5,0,0,Intermediate,"JavaScript, Go",Intermediate,Intermediate,3,3,1,0,0,None,5.0,66.3,No,15,3,No,0.0
+SIT20240205,ECE,1,7.37,79.2,79.7,0,0,Intermediate,C,None,Intermediate,4,6,6,2,2,Medium,9.2,100.0,No,19,5,Yes,5.7
+SIT20240206,ECE,2,7.12,74.4,94.8,0,0,Intermediate,"Python, C, Go",Advanced,None,3,5,3,0,1,Medium,8.0,44.2,No,5,5,Yes,4.03
+SIT20240207,CSE,2,6.69,77.7,71.0,0,0,Advanced,"C, Rust",Basic,Basic,3,5,2,0,0,None,5.3,48.9,No,14,2,Yes,9.52
+SIT20240208,CSE,2,6.89,90.6,66.3,0,0,Intermediate,"C, Java, JavaScript",Intermediate,None,4,6,3,0,2,Low,7.4,50.8,No,17,3,No,0.0
+SIT20240209,ME,3,6.69,80.9,80.3,0,0,Beginner,Rust,Basic,Advanced,1,4,0,1,1,Medium,6.0,67.6,No,17,3,No,0.0
+SIT20240210,CIVIL,2,8.01,66.4,77.9,0,0,Intermediate,"Go, Rust",None,None,2,2,3,2,0,None,7.4,61.3,No,12,7,Yes,4.59
+SIT20240211,CSE,3,7.06,86.7,82.4,1,0,Intermediate,"C, Java",None,Advanced,2,5,1,1,1,High,4.6,64.4,No,7,5,Yes,9.52
+SIT20240212,ISE,1,9.11,89.3,70.7,0,0,Intermediate,"Python, Java",None,Basic,5,5,4,1,3,High,6.2,44.0,Yes,12,7,Yes,8.34
+SIT20240213,ECE,1,8.86,84.0,60.4,2,0,Intermediate,Java,None,Basic,5,7,4,0,1,High,7.8,75.6,Yes,9,6,Yes,5.85
+SIT20240214,ECE,3,6.64,80.1,97.2,0,0,Intermediate,Java,Intermediate,Basic,2,3,0,1,0,None,8.1,74.4,Yes,6,6,Yes,7.44
+SIT20240215,CSE,1,8.39,78.4,84.7,2,0,Beginner,"Go, JavaScript, C, C++",Advanced,None,4,6,3,0,3,High,8.8,68.4,Yes,6,4,Yes,8.52
+SIT20240216,ISE,2,7.61,87.0,75.9,0,0,Beginner,"C++, Java, Python, C",None,Intermediate,2,3,3,1,0,None,5.2,59.8,No,15,6,Yes,8.74
+SIT20240217,AIML,3,6.32,84.5,91.1,1,0,Beginner,"Python, C, JavaScript, Java",Advanced,None,1,4,1,0,0,None,5.8,72.4,Yes,20,1,No,0.0
+SIT20240218,CSE,2,8.3,89.4,84.1,0,1,Intermediate,"JavaScript, Java",None,Advanced,4,5,1,0,1,Medium,9.7,87.9,No,19,2,Yes,9.26
+SIT20240219,ISE,2,7.16,84.3,78.2,0,0,Advanced,"Java, JavaScript",Advanced,Intermediate,3,4,4,2,1,High,4.7,65.7,Yes,10,1,No,0.0
+SIT20240220,EEE,2,6.96,74.4,78.3,0,0,Intermediate,"JavaScript, Rust",None,Basic,3,4,4,1,1,Low,7.9,78.3,Yes,6,2,No,0.0
+SIT20240221,EEE,2,8.27,92.7,78.1,0,0,Intermediate,C,None,None,3,6,2,3,2,High,9.7,85.9,No,11,3,No,0.0
+SIT20240222,ISE,3,7.09,78.2,74.2,1,1,Beginner,"Python, Rust, JavaScript, C++",Advanced,None,2,5,0,1,1,Low,8.0,50.7,No,19,5,Yes,8.14
+SIT20240223,ISE,3,6.59,77.0,75.2,0,0,Advanced,"C++, Rust, JavaScript, C",Basic,None,1,4,0,1,0,None,8.3,48.5,Yes,18,3,No,0.0
+SIT20240224,ECE,2,6.76,83.6,85.8,0,0,Intermediate,"Rust, C++",Intermediate,None,3,5,4,1,1,High,8.0,61.7,No,15,4,Yes,4.78
+SIT20240225,ISE,3,6.24,86.9,88.8,1,0,Intermediate,"C++, JavaScript",None,Basic,1,1,1,1,1,Medium,7.3,72.7,No,20,6,Yes,9.56
+SIT20240226,CSE,3,6.58,78.3,73.8,1,0,Intermediate,"Rust, C, Java, Python",None,None,2,4,0,1,0,None,7.2,67.9,No,16,8,Yes,8.57
+SIT20240227,AIML,3,7.3,80.1,75.0,0,2,Advanced,"C, C++, Python, Rust",Intermediate,Basic,1,4,0,2,1,Medium,4.8,64.9,No,7,2,No,0.0
+SIT20240228,EEE,3,7.33,80.8,85.9,0,0,Intermediate,"C, Python, C++",None,None,1,1,2,2,0,None,5.9,64.7,Yes,17,5,Yes,5.55
+SIT20240229,AIML,3,7.22,73.3,69.4,1,1,Advanced,"Java, C++, Go",Intermediate,None,1,1,0,2,1,Low,8.2,79.9,No,5,1,No,0.0
+SIT20240230,DS,1,8.33,92.1,70.9,0,0,Intermediate,"C++, Go, Java",None,Basic,3,3,5,0,2,Low,4.1,73.7,No,16,6,Yes,9.83
+SIT20240231,ECE,3,6.5,75.6,90.9,0,0,Beginner,Python,Basic,None,2,3,1,0,0,None,6.0,56.8,No,19,7,Yes,7.09
+SIT20240232,AIML,2,8.64,84.5,73.6,0,0,Advanced,"C, C++, Rust, Go",Intermediate,Basic,4,5,3,0,1,Medium,4.2,57.8,Yes,6,5,Yes,9.72
+SIT20240233,ECE,2,8.13,78.1,83.9,0,0,Beginner,"Java, C++",None,None,3,5,3,2,2,High,7.8,66.2,No,7,2,Yes,5.8
+SIT20240234,ECE,1,6.63,92.6,87.3,0,0,Intermediate,"Python, Go",Basic,Basic,3,4,3,0,3,Low,4.2,100.0,Yes,11,7,Yes,7.09
+SIT20240235,CSE,3,6.3,82.5,83.0,0,0,Intermediate,"Go, Python, C",Basic,Intermediate,1,4,0,1,1,Medium,8.0,63.9,Yes,11,7,Yes,10.01
+SIT20240236,ECE,2,7.06,78.5,81.8,0,0,Advanced,"JavaScript, Python",Intermediate,None,4,4,4,1,1,High,8.2,52.6,No,8,5,Yes,6.63
+SIT20240237,ME,2,7.9,90.4,59.5,0,0,Beginner,"Rust, JavaScript",None,None,3,3,1,1,2,High,5.1,54.6,No,5,1,No,0.0
+SIT20240238,AIML,2,7.54,89.1,65.9,0,2,Beginner,"Go, C++, JavaScript",Intermediate,None,3,3,2,1,0,None,5.7,45.0,No,9,7,Yes,13.12
+SIT20240239,ISE,3,6.53,83.6,86.0,0,0,Advanced,"Go, Python",None,Intermediate,2,5,2,1,1,Low,6.2,64.0,No,12,1,No,0.0
+SIT20240240,CSE,3,6.31,83.7,73.6,0,0,Beginner,"C++, Java",Intermediate,Advanced,2,3,0,0,0,None,7.7,62.1,Yes,7,2,No,0.0
+SIT20240241,ISE,3,7.55,90.9,82.6,0,0,Beginner,"C, C++, Rust, Java",Basic,Intermediate,1,4,0,2,1,Low,4.8,100.0,Yes,18,1,No,0.0
+SIT20240242,CSE,2,7.8,94.1,94.2,0,0,Advanced,"JavaScript, Go",None,Basic,4,4,4,1,0,None,5.0,70.0,Yes,17,2,No,0.0
+SIT20240243,ISE,3,6.88,73.4,59.3,0,0,Intermediate,"Go, C++",None,Intermediate,2,5,2,0,1,Medium,7.0,69.5,Yes,7,1,No,0.0
+SIT20240244,CSE,2,7.55,85.2,65.1,0,0,Advanced,"JavaScript, Go",Basic,Basic,4,4,3,2,0,None,8.3,92.0,Yes,17,1,No,0.0
+SIT20240245,DS,2,7.53,75.9,83.2,0,0,Intermediate,"JavaScript, Go",None,Intermediate,2,4,4,0,0,None,7.3,69.6,No,16,8,Yes,8.89
+SIT20240246,CSE,3,7.53,98.0,66.2,0,0,Intermediate,"JavaScript, Go",Advanced,None,1,1,1,1,1,Medium,6.9,43.5,No,13,8,Yes,5.63
+SIT20240247,DS,3,6.31,68.2,85.3,0,0,Intermediate,"Python, C++, Go",Intermediate,None,1,3,1,0,0,None,7.0,42.1,No,12,6,Yes,10.39
+SIT20240248,CSE,2,7.61,86.9,84.7,0,2,Intermediate,"Rust, Python, Java",Intermediate,None,3,5,3,1,0,None,6.5,62.2,Yes,20,2,Yes,9.98
+SIT20240249,ECE,2,8.08,84.8,77.0,0,0,Intermediate,"Python, Rust",Intermediate,None,3,4,3,2,1,Low,8.5,45.7,Yes,7,3,Yes,6.65
+SIT20240250,CSE,2,7.14,82.7,74.6,0,0,Beginner,"Rust, JavaScript, C, C++",Advanced,None,3,5,1,0,2,Medium,9.3,68.1,No,18,4,Yes,5.56
